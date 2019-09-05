@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("jingu.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+li {
+  list-style: none;
+}
+
+.header-list {
+  font-size: 30px;
+  padiing; 60px 40px;
+}
+
+.main {
+  text-align: center;
+}
+
+.copy-containar h1{
+  font-size: 40px;
+  padding:40px 40px;
+
+}
+
+.copy-containar span {
+  color: #0033ff;
+}
+
+.contents {
+  height: 400px;
+  width: 600px;
+}
+
+.contents-form {
+  background-color: rgba(233,233,233,0.7);
+  width: 800px;
+  margin: 0 auto;
+}
+
+.fooder a {
+  font-size: 55px;
+  color: white;
+  display: inline-block;
+  width: 1000px;
+  height: 100px;
+  background-color: #336699;
+  margin: 90px auto;
+  border-radius: 10px;
+  line-height: 100px;
+  box-shadow: 0 10px #003366;
+}
+
+.fooder a:active{
+  position: relative;
+  top: 10px;
+  box-shadow: none;
+
+}
