@@ -25,7 +25,8 @@ li {
 
 .copy-containar h1{
   font-size: 40px;
-  padding:40px 40px;
+  padding:40px auto;
+  width: 100%;
 
 }
 
