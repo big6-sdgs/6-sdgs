@@ -46,7 +46,7 @@ li {
   margin: 0 auto;
 }
 
-.fooder a {
+.footer a {
   font-size: 55px;
   color: white;
   display: inline-block;
@@ -59,7 +59,7 @@ li {
   box-shadow: 0 10px #003366;
 }
 
-.fooder a:active{
+.footer a:active{
   position: relative;
   top: 10px;
   box-shadow: none;
