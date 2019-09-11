@@ -3,11 +3,10 @@
 }
 
 body {
-  background-image: url("jingu-custom.png");
+  background-image: url("jingu-2.png");
   width: auto;
   height: auto;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 li {
@@ -44,13 +43,14 @@ li {
   background-color: rgba(233,233,233,0.7);
   width: 58%;
   margin: 0 auto;
+  text-align: left;
 }
 
 .footer a {
-  font-size: 55px;
+  font-size: 45px;
   color: white;
   display: inline-block;
-  width: 100%;
+  width: 900px;
   height: 100px;
   background-color: #336699;
   margin: 90px auto;
